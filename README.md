@@ -1,7 +1,7 @@
-# scrapy-imbd
-Crawling Best 250 Movies.
+# Crawl 250 Best Movies from IMDB
 
-Storing in Database PostgreSQL.
+[![Python Version](https://img.shields.io/badge/python-3.8.5-brightgreen.svg)](https://python.org)
+[![Scrapy Version](https://img.shields.io/badge/scrapy-2.4.1-brightgreen.svg)](https://scrapy.org)
 
 ## Running the Project Locally
 
