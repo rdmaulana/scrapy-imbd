@@ -17,6 +17,14 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
+Set up your Postgresql database by edit pipelines.py:
+```bash
+hostname = 'YOUR_HOST'
+username = 'YOUR_DB_USERNAME'
+password = 'YOUR_DB_PASSWORD'
+database = 'YOUR_DB_NAME'
+```
+
 Finally, run scrapy:
 
 ```bash
